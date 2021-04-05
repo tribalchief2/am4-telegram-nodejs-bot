@@ -1,25 +1,25 @@
 {
   "mc-21-400": {
-    "range": 5500,
+    "range": 6000,
     "runway": 6800,
     "speed": 987,
     "pax": 230,
-    "fuel": 19.57
+    "fuel": 1.57
   },
   "B377-stratocruiser": {
     "range": 6760,
     "runway": 8600,
-    "speed": 574,
-    "pax": 117,
-    "fuel": 29.0,
+    "speed": 974,
+    "pax": 207,
+    "fuel": 2.0,
     "price": 788066
   },
   "B727-100 (PW JT8D-9)": {
     "range": 3056,
     "runway": 8300,
     "speed": 1009,
-    "pax": 131,
-    "fuel": 13.0,
+    "pax": 300,
+    "fuel": 1.0,
     "price": 1364217
   },
   "B727-100 (PW JT8D-7)": {
